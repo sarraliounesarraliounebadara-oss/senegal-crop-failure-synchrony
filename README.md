@@ -48,16 +48,7 @@ MASQUE=/path/to/masque_mirca RENDEMENTS=/path/to/rendements_detrendes_1986-2016.
 
 Results are written to `out/` and figures to `fig/`. Permutation tests and resampling use fixed random seeds, so results are reproducible.
 
-## Derived data
 
-| File | Content |
-| --- | --- |
-| `yearly_failure_shares.csv` | Yearly share of department–crop series in failure |
-| `national_production_shocks_bycrop.csv` | National production shocks by crop |
-| `national_crop_fractional_shocks_completepanel.csv` | National fractional production shocks, complete panel |
-| `yearly_drought_and_failure.csv` | Yearly drought and failure shares |
-| `Table7_crop_portfolio_covariance.csv` | Covariance of production shocks between crops |
-| `TableS5_robustness_18_settings.csv` | Robustness checks across 18 settings |
 
 ## License
 
